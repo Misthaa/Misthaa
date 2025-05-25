@@ -9,7 +9,7 @@ I'm a junior developer passionate about creating smooth and intuitive user inter
 🌐 French, based in Charente, France
 🎓 Studying at **42**\
 💡 Interested in **UI/UX Design** and front-end development\
-🛠️ Currently exploring **Svelte**, **TypeScript**, and other modern technologies\
+🛠️ Currently exploring **Svelte**, **TypeScript**, and other modern technologies
 
 ---
 
