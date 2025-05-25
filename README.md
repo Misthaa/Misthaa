@@ -1,6 +1,6 @@
 # Hi, I'm Mathis!
 
-I'm a front-end developer passionate about creating smooth and intuitive user interfaces. I love blending design and development to craft elegant and high-performance experiences.
+I'm a junior developer passionate about creating smooth and intuitive user interfaces. I'm aiming to become a front-end developer who builds user-focused, modern, and performant web experiences.
 
 ---
 
@@ -10,7 +10,6 @@ I'm a front-end developer passionate about creating smooth and intuitive user in
 🎓 Studying at **42**\
 💡 Interested in **UI/UX Design** and front-end development\
 🛠️ Currently exploring **Svelte**, **TypeScript**, and other modern technologies\
-🌱 Always learning and seeking new challenges
 
 ---
 
@@ -24,7 +23,9 @@ I'm a front-end developer passionate about creating smooth and intuitive user in
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
