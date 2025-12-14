@@ -1,6 +1,6 @@
 # Hi, I'm Mathis!
 
-I'm a junior developer passionate about creating smooth and intuitive user interfaces. I'm aiming to become a front-end developer who builds user-focused, modern, and performant web experiences.
+I'm a junior developer passionate about creating smooth and intuitive user interfaces. I'm aiming to become a web developer who builds user-focused, modern, and performant web experiences.
 
 ---
 
