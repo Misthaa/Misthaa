@@ -32,6 +32,6 @@ I'm a junior developer passionate about creating smooth and intuitive user inter
 
 ## Contact Me
 
-📧 Email: [mathis.degryck59@gmail.com]
+📧 Email: [contact@mathisd.fr]
 
 Feel free to explore my projects and reach out if you'd like to discuss tech, design, or collaborate on a project!
