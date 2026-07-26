@@ -1,11 +1,5 @@
 <p align="center">
-  <img 
-    src="asset/evatokyo.gif" 
-    width="700" 
-    height="180" 
-    style="object-fit: cover;" 
-    alt="Banner"
-  >
+  <img src="asset/evatokyo.gif" alt="Banner" width="100%">
 </p>
 
 # hi, i'm Mathis
